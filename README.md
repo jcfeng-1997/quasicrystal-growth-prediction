@@ -13,8 +13,7 @@ Transformer networks for temporal prediction in the latent space.
 
 Ensemble Kalman Filter (EnKF) for sequential data assimilation and parameter estimation.
 
-Dataset is available on Figshare:  
-**https://doi.org/10.6084/m9.figshare.31888558**
+Dataset is available on Figshare:  **https://doi.org/10.6084/m9.figshare.31888558**
 
 For questions or to request additional code and data, please contact:  
 **Jiachen Feng** — [jiachenfeng@stu.xjtu.edu.cn]
